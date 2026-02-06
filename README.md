@@ -4,19 +4,19 @@ A data exploration project analyzing EV charging station usage trends, energy de
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
-ev-charging-project/
-│
-├── notebooks/
-│ └── ev_charging_analysis.ipynb # Data exploration and visualizations
-├── scripts/
-│ └── create_sample_data.py # Script to create sample data
-├── data/
-│ └── ev_charging_sessions.csv # Primary dataset used for analysis
-├── EV_Charging_Analysis_Report.docx # Summary report (MoM style)
-├── .gitignore # Ignored files
-└── README.md # Project overview
+data/ev_charging_sessions.csv – Primary dataset used for the analysis
+
+notebooks/ev_charging_analysis.ipynb – Jupyter notebook for data exploration and visualization
+
+scripts/create_sample_data.py – Python script to create or preprocess sample data
+
+EV_Charging_Analysis_Report.docx – Summary report (MoM-style documentation)
+
+.gitignore – Specifies intentionally untracked files to ignore
+
+README.md – Project overview and instructions
 
 
 ---
