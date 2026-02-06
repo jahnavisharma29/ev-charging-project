@@ -1,0 +1,5 @@
+# Ignore Python cache and temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+.env
